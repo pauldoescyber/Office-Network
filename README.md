@@ -20,6 +20,20 @@ An overview of the project.
 <br />
 <br />
 
+# Router configuration
+For the project the first things to do after physically connecting the hosts,servers and switches(for my project I used copper-straight through wire for the host pcs and copper cross over for the servers) is to configure the interfaces on the router which by default are adminstratively down as well as provide each interface with an IP address. Below is a screenshot of the commands I used to configure one of the interfaces.
+
+<img src="https://github.com/user-attachments/assets/8839f79e-6142-4044-87ff-bee9a17d9b97" height ="80%" width ="80%" alt="Setting up an interface on the router">
+<br />
+<br />
+
+# DHCP pool configuration on router
+I also configured DHCP on the router for the networks that had multiple members i.e the sales department(192.168.1.0) and the IT department(192.168.2.0).Below is the set of commands I used to configure the dhcp on the router for both of the interfaces.
+<img src="https://github.com/user-attachments/assets/3097b483-2963-4506-aecf-66b9e43cb55a" height ="80%" width ="80%" alt="Setting up an interface on the router">
+<br />
+<br />
+
+
 
 
 
