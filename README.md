@@ -39,8 +39,10 @@ After configuring the DHCP service on my router I tested it by requesting for an
 <br />
 # DNS Configuration on server
  I had to configure the DNS server to resolve the FQDN(www.myoffice.com) and doing this involved giving the server an address.I did this statically. And then going to the services menu turning on DNS 
- and registering the IP address of the web server (which I had already pre-planned to be 192.168.3.2 ) as 192.168.3.2 associated with the site www.myoffice.com. The following screen shot shows this information.
- <img src="https://github.com/user-attachments/assets/43f924a4-9c4e-4c3d-94fd-3b466639cb77" height ="80%" width ="80%" alt="Setting up an interface on the router">
+ and registering the IP address of the web server (which I had already pre-planned to be 192.168.3.2 ) as 192.168.3.2 associated with the site www.myoffice.com The following screen shots show this information.
+ <br />
+ Manually giving the server an IP address
+ <img src="https://github.com/user-attachments/assets/ca89b3de-edeb-4a32-b6bd-32bbf9ae57ac" height ="80%" width ="80%" alt="Setting up an interface on the router">
 <br />
 <br />
 
