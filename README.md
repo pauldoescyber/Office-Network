@@ -1,2 +1,4 @@
-# Small-Office-network-topology
-This is a small network topology built on CISCO to mimic a small office network network enviroment. 
+# Office-network-topology
+This is an office network topology built on Cisco packet tracer to mimic an office network enviroment. 
+# Project overview
+
