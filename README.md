@@ -16,8 +16,10 @@ Here I built an office network on cisco pakcet tracer consisting of two departme
 # Project overview
 An overview of the project.
 
+<img src="https://github.com/user-attachments/assets/bd6d5e4e-3839-4434-865e-1eebe777fc22" height ="80%" width ="80%" alt="Overview of networking project for a small office">
+<br />
+<br />
 
-<img src="https://github.com/user-attachments/assets/bd6d5e4e-3839-4434-865e-1eebe777fc22" width ="90%" height ="90%" alt="Overview of networking project for a small office />
 
 
 
