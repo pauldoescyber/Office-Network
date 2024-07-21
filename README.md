@@ -27,7 +27,7 @@ For the project the first things to do after physically connecting the hosts,ser
 <br />
 <br />
 
-# DHCP pool configuration on router
+# DHCP Configuration on router
 I also configured DHCP on the router for the networks that had multiple members i.e the sales department(192.168.1.0) and the IT department(192.168.2.0).Below is the set of commands I used to configure the dhcp on the router for both of the interfaces.
 <img src="https://github.com/user-attachments/assets/3097b483-2963-4506-aecf-66b9e43cb55a" height ="80%" width ="80%" alt="Setting up an interface on the router">
 <br />
