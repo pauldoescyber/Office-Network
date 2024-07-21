@@ -32,6 +32,17 @@ I also configured DHCP on the router for the networks that had multiple members 
 <img src="https://github.com/user-attachments/assets/3097b483-2963-4506-aecf-66b9e43cb55a" height ="80%" width ="80%" alt="Setting up an interface on the router">
 <br />
 <br />
+# Testing DHCP
+After configuring the DHCP service on my router I tested it by requesting for an IP address from a host to be assigned dynamically.This was sucessful as denoted by the screenshot showed below.
+<img src="https://github.com/user-attachments/assets/3097b483-2963-4506-aecf-66b9e43cb55a" height ="80%" width ="80%" alt="Setting up an interface on the router">
+<br />
+<br />
+# DNS Configuration on server
+ I had to configure the DNS server to resolve the FQDN(www.myoffice.com) and doing this involved giving the server an address.I did this statically. And then going to the services menu turning on DNS 
+ and registering the IP address of the web server (which I had already pre-planned to be 192.168.3.2 ) as 192.168.3.2 associated with the site www.myoffice.com. The following screen shot shows this information.
+ <img src="https://github.com/user-attachments/assets/43f924a4-9c4e-4c3d-94fd-3b466639cb77" height ="80%" width ="80%" alt="Setting up an interface on the router">
+<br />
+<br />
 
 
 
